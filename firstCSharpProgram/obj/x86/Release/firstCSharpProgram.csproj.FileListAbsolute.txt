@@ -1,0 +1,8 @@
+C:\Users\HVS\AppData\Local\Temporary Projects\firstCSharpProgram\bin\Release\firstCSharpProgram.exe
+C:\Users\HVS\AppData\Local\Temporary Projects\firstCSharpProgram\bin\Release\firstCSharpProgram.pdb
+C:\Users\HVS\AppData\Local\Temporary Projects\firstCSharpProgram\obj\x86\Release\firstCSharpProgram.exe
+C:\Users\HVS\AppData\Local\Temporary Projects\firstCSharpProgram\obj\x86\Release\firstCSharpProgram.pdb
+C:\Users\HVS\documents\visual studio 2010\Projects\firstCSharpProgram\firstCSharpProgram\obj\x86\Release\firstCSharpProgram.exe
+C:\Users\HVS\documents\visual studio 2010\Projects\firstCSharpProgram\firstCSharpProgram\obj\x86\Release\firstCSharpProgram.pdb
+C:\Users\HVS\documents\visual studio 2010\Projects\firstCSharpProgram\firstCSharpProgram\bin\Release\firstCSharpProgram.exe
+C:\Users\HVS\documents\visual studio 2010\Projects\firstCSharpProgram\firstCSharpProgram\bin\Release\firstCSharpProgram.pdb

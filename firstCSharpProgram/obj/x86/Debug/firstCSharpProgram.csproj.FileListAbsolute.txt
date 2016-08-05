@@ -1,0 +1,4 @@
+C:\Users\HVS\documents\visual studio 2010\Projects\firstCSharpProgram\firstCSharpProgram\bin\Debug\firstCSharpProgram.exe
+C:\Users\HVS\documents\visual studio 2010\Projects\firstCSharpProgram\firstCSharpProgram\bin\Debug\firstCSharpProgram.pdb
+C:\Users\HVS\documents\visual studio 2010\Projects\firstCSharpProgram\firstCSharpProgram\obj\x86\Debug\firstCSharpProgram.exe
+C:\Users\HVS\documents\visual studio 2010\Projects\firstCSharpProgram\firstCSharpProgram\obj\x86\Debug\firstCSharpProgram.pdb
